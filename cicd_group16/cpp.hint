@@ -1,0 +1,2 @@
+#define CICDGROUP16_API __declspec(dllexport)
+#define CICDGROUP16_API __declspec(dllimport)
